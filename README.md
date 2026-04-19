@@ -11,6 +11,7 @@ Skills are self-contained modules that give OpenClaw agents access to external d
 | Skill | Description |
 |---|---|
 | [oura](skills/oura/) | Fetches today's Oura Ring health data (sleep, readiness, HR, activity, SpO2) |
+| [strava](skills/strava/) | Fetches today's and recent Strava workout activities (runs, rides, swims, pace, HR, effort) |
 
 ## Installing skills into OpenClaw
 
